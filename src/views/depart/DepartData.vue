@@ -36,7 +36,7 @@
                         </el-dropdown>
                 </el-col>
                 <el-col :span="6" class="tr fr">
-                <el-button>查询</el-button>
+                <el-button>查询1</el-button>
                 <el-button>重置</el-button>
                 </el-col>
             </el-row>
